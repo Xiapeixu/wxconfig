@@ -1,9 +1,17 @@
 {
-  "name": "wxconfig-xpx",
-  "version": "1.0.1",
+  "name": "wxconfig-x",
+  "version": "1.0.0",
   "description": "微信api配置",
   "main": "config.js",
   "scripts": {},
   "author": "夏培旭",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/Xiapeixu/wxconfig",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xiapeixu/wxconfig.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Xiapeixu/wxconfig/issues"
+  }
 }
