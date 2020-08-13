@@ -1,0 +1,9 @@
+{
+  "name": "wxconfig-xpx",
+  "version": "1.0.1",
+  "description": "微信api配置",
+  "main": "config.js",
+  "scripts": {},
+  "author": "夏培旭",
+  "license": "ISC"
+}
