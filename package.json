@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "微信api配置",
   "main": "config.js",
-  "scripts": {},
+  "scripts": {
+    "update": "npm version patch && npm publish"
+  },
   "author": "夏培旭",
   "license": "ISC",
   "homepage": "https://github.com/Xiapeixu/wxconfig",
