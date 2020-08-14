@@ -14,7 +14,7 @@
 export default function wxConfig(config, ready, error) {
     //配置js-sdk,根据路径传参获得必要的参数信息
     wx.config({
-        debug: config.debug ? false : true,
+        debug: config.debug ? true : false,
         appId: config.appId, // 必填,公众号的唯一标识
         timestamp: config.timestamp, // 必填,生成签名的时间戳
         nonceStr: config.nonceStr, // 必填,生成签名的随机串
