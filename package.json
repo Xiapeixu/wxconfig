@@ -15,5 +15,8 @@
   },
   "bugs": {
     "url": "https://github.com/Xiapeixu/wxconfig/issues"
+  },
+  "dependencies": {
+    "wxconfig-x": "^1.0.1"
   }
 }
